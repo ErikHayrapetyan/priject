@@ -17,3 +17,4 @@ const artu = {
 const ansver = +prompt("imya tvayo");
 console.log(typeof (ansver));
 console.log(ansver);
+console.log("privet");
